@@ -1,7 +1,7 @@
 Diese Analyse beinhaltet drei Dateien:
 
 LoL_champion_data.csv - die CSV Datei, aus welcher die Informationen, welche in der Analyse verwendet werden, aufgelistet sind
-(Erhalten von https://www.kaggle.com/datasets/laurenainsleyhaines/25-05-league-of-legends-champion-data-2025/data )
+(Erhalten von https://www.kaggle.com/datasets/laurenainsleyhaines/25-05-league-of-legends-champion-data-2025/data)
 
 League of Legends Champion Analyse.ipynb - Ein Jupyter Notebook File, welches die Analyse an sich beinhaltet. 
 Diese Analyse wurde hauptsächlich mithilfe von Python, Pandas sowie Matplotlib/Seaborn-gestützen Graphen durchgeführt. 
